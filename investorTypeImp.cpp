@@ -1,8 +1,7 @@
 /*
-Name: Rahel Siefe, NSHE: 5007247591, 1001, ASSIGNMENT: 3
-Description: This derived class of stockInvestor uses getter functions
+Description: Derived class of stockInvestor uses getter functions
 to access variables of stockInvestor and prints the name, ID, stock 
-information to the output file InvestorData.txt .
+information to the output file InvestorData.txt
 Input: Set investor type name, stock name, stock count, and stock price.
 Output: stockInvestor member variables, investor type name, stock name, 
 stock count, and stock price printed to output file. Error messages for
