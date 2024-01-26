@@ -1,5 +1,4 @@
 /*
-Name: Rahel Siefe, NSHE: 5007247591, 1001, ASSIGNMENT: 3
 Description: Base class useful for setting investor's name and ID, 
 as well as error checking the ID. 
 Input: Set the investors data using setters or 
