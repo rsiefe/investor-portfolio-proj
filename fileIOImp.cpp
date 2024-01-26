@@ -1,13 +1,10 @@
 /*
-Name: Rahel Siefe, NSHE: 5007247591, 1001, ASSIGNMENT: 3
-Description: This class has only one member function. The member function
-returns the number of entries read the data from (investorsData.txt) 
-file; use constructors, setters, member functions to calculate the
-portfolio of each investor. Finally, write the investors' portfolios 
-(reports) to an outputfile (investorsPortfolio.txt). 
-Input: Information from investorsData.txt file
-Output: investors' Portfolios containing IDs, names, stock price 
-changes, and more (investorsPortfolio.txt).
+Description: Member function returns the number of entries (from investorsData.txt) 
+;use constructors, setters, member functions to calculate the
+portfolio of each investor. Finally, write the reports 
+to an output file (investorsPortfolio.txt). 
+Output: reports containing IDs, names, stock price 
+changes, etc
 */
 
 #include "fileIO.h"
