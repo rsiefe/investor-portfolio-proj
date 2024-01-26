@@ -9,14 +9,9 @@ public:
     
     stockInvestor(string fName, string lName, string id);
     // parameterized constructor
-   //Sets firstName, lastName, and id according to the parameters.
-   //The default values of the parameters are empty strings.
 
     void setStockInvestor(string fName, string lName, string id);
     // Mutator function
-   //Sets firstName, lastName, and id according to the parameters.
-   //The default values of the parameters are empty strings.
-   
 
     bool checkInvestorID(string investorIDTemp) const;
     //return false if ID is incorrect
@@ -25,8 +20,7 @@ public:
      // Mutator function to set investor ID
     
     void setName(string fName, string lName);
-   //Function to set firstName and lastName according 
-   //to the parameters.
+   //Function to set firstName and lastName 
 
    string getID() const;
    //Function to return the id
